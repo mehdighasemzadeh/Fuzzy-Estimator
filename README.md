@@ -26,8 +26,12 @@ Estimation of 2D-Sinc using Sugeno
 <img src="pic/S.png" width="500" height="500">
 
 
+
+
 ## Results
 
+
+```
 +-----------------------------+
 |  Model          |  Error    |
 +-----------------------------+
@@ -37,7 +41,7 @@ Estimation of 2D-Sinc using Sugeno
 +-----------------------------+
 |  Sugeno         |  0.16     |
 +-----------------------------+
-
+```
 
 
 
