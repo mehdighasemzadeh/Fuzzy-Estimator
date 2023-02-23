@@ -1,6 +1,6 @@
 # Fuzzy-Estimator
 
-We estimate a 2D-Sinc function using fuzzy models (Takagi-Sugeno, Sugeno, and Active Learning Method) and also the effect of noise on these model is revealed, while running code all the implementation details are shown.
+We estimate a 2D-Sinc function using fuzzy models (Takagi-Sugeno, Sugeno, and Active Learning Method) and also the effect of noise on these model is revealed. While running code implementation details are shown.
 
 ## 2D-Sinc
 
